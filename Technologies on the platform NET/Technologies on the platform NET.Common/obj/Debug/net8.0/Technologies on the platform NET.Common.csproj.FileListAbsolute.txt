@@ -1,0 +1,22 @@
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Common\bin\Debug\net8.0\Technologies on the platform NET.Common.deps.json
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Common\bin\Debug\net8.0\Technologies on the platform NET.Common.dll
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Common\bin\Debug\net8.0\Technologies on the platform NET.Common.pdb
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Common\obj\Debug\net8.0\Technologies on the platform NET.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Common\obj\Debug\net8.0\Technologies on the platform NET.Common.AssemblyInfoInputs.cache
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Common\obj\Debug\net8.0\Technologies on the platform NET.Common.AssemblyInfo.cs
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Common\obj\Debug\net8.0\Technologies on the platform NET.Common.csproj.CoreCompileInputs.cache
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Common\obj\Debug\net8.0\Technologies on the platform NET.Common.dll
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Common\obj\Debug\net8.0\refint\Technologies on the platform NET.Common.dll
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Common\obj\Debug\net8.0\Technologies on the platform NET.Common.pdb
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Common\obj\Debug\net8.0\ref\Technologies on the platform NET.Common.dll
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Common\bin\Debug\net8.0\Technologies on the platform NET.Common.deps.json
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Common\bin\Debug\net8.0\Technologies on the platform NET.Common.dll
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Common\bin\Debug\net8.0\Technologies on the platform NET.Common.pdb
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Common\obj\Debug\net8.0\Technologies on the platform NET.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Common\obj\Debug\net8.0\Technologies on the platform NET.Common.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Common\obj\Debug\net8.0\Technologies on the platform NET.Common.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Common\obj\Debug\net8.0\Technologies on the platform NET.Common.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Common\obj\Debug\net8.0\Technologies on the platform NET.Common.dll
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Common\obj\Debug\net8.0\refint\Technologies on the platform NET.Common.dll
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Common\obj\Debug\net8.0\Technologies on the platform NET.Common.pdb
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Common\obj\Debug\net8.0\ref\Technologies on the platform NET.Common.dll

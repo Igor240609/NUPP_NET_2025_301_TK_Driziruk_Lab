@@ -1,0 +1,36 @@
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Console\bin\Debug\net8.0\Technologies on the platform NET.Console.exe
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Console\bin\Debug\net8.0\Technologies on the platform NET.Console.deps.json
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Console\bin\Debug\net8.0\Technologies on the platform NET.Console.runtimeconfig.json
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Console\bin\Debug\net8.0\Technologies on the platform NET.Console.dll
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Console\bin\Debug\net8.0\Technologies on the platform NET.Console.pdb
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Console\bin\Debug\net8.0\Technologies on the platform NET.Common.dll
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Console\bin\Debug\net8.0\Technologies on the platform NET.Common.pdb
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Console\obj\Debug\net8.0\Technologies on the platform NET.Console.csproj.AssemblyReference.cache
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Console\obj\Debug\net8.0\Technologies on the platform NET.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Console\obj\Debug\net8.0\Technologies on the platform NET.Console.AssemblyInfoInputs.cache
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Console\obj\Debug\net8.0\Technologies on the platform NET.Console.AssemblyInfo.cs
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Console\obj\Debug\net8.0\Technologies on the platform NET.Console.csproj.CoreCompileInputs.cache
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Console\obj\Debug\net8.0\Technolo.D4EE940F.Up2Date
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Console\obj\Debug\net8.0\Technologies on the platform NET.Console.dll
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Console\obj\Debug\net8.0\refint\Technologies on the platform NET.Console.dll
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Console\obj\Debug\net8.0\Technologies on the platform NET.Console.pdb
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Console\obj\Debug\net8.0\Technologies on the platform NET.Console.genruntimeconfig.cache
+C:\Users\Okwine112\source\repos\Technologies on the platform NET\Technologies on the platform NET.Console\obj\Debug\net8.0\ref\Technologies on the platform NET.Console.dll
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Console\bin\Debug\net8.0\Technologies on the platform NET.Console.exe
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Console\bin\Debug\net8.0\Technologies on the platform NET.Console.deps.json
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Console\bin\Debug\net8.0\Technologies on the platform NET.Console.runtimeconfig.json
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Console\bin\Debug\net8.0\Technologies on the platform NET.Console.dll
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Console\bin\Debug\net8.0\Technologies on the platform NET.Console.pdb
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Console\bin\Debug\net8.0\Technologies on the platform NET.Common.dll
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Console\bin\Debug\net8.0\Technologies on the platform NET.Common.pdb
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Console\obj\Debug\net8.0\Technologies on the platform NET.Console.csproj.AssemblyReference.cache
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Console\obj\Debug\net8.0\Technologies on the platform NET.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Console\obj\Debug\net8.0\Technologies on the platform NET.Console.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Console\obj\Debug\net8.0\Technologies on the platform NET.Console.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Console\obj\Debug\net8.0\Technologies on the platform NET.Console.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Console\obj\Debug\net8.0\Technolo.D4EE940F.Up2Date
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Console\obj\Debug\net8.0\Technologies on the platform NET.Console.dll
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Console\obj\Debug\net8.0\refint\Technologies on the platform NET.Console.dll
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Console\obj\Debug\net8.0\Technologies on the platform NET.Console.pdb
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Console\obj\Debug\net8.0\Technologies on the platform NET.Console.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Technologies on the platform NET\Technologies on the platform NET\Technologies on the platform NET.Console\obj\Debug\net8.0\ref\Technologies on the platform NET.Console.dll
